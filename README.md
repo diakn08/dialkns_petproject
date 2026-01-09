@@ -28,7 +28,7 @@ JavaScript – interactivity and dynamic elements
 (Optional: add frameworks or libraries if you use them, e.g. React, Bootstrap, etc.)
 
 # Getting Started
---
+---
 #Getting Started
 Prerequisites
 
@@ -59,7 +59,6 @@ roza-rasul/
 
 │   └── flowers/
 
-└── README.md
 ---
 # Purpose of the Project
 

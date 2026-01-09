@@ -1,7 +1,6 @@
 # Project Description
 
 ROZA RASUL is a modern and elegant web application created for a flower shop.
-
 The website is designed to showcase floral products, provide information about the shop, and allow customers to easily explore available bouquets and services.
 
 The project focuses on clean design, user-friendly navigation, and responsiveness across different devices.
@@ -9,11 +8,8 @@ The project focuses on clean design, user-friendly navigation, and responsivenes
 Features
 
  Product catalog with flower bouquets
-
  Information about the flower shop
-
  Responsive design (desktop, tablet, mobile)
-
  Modern and minimal UI
 
 High-quality flower images

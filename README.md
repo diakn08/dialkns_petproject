@@ -58,7 +58,6 @@ roza-rasul/
 ├── images/
 
 │   └── flowers/
-
 └── README.md
 ---
 # Purpose of the Project

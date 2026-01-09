@@ -17,7 +17,7 @@ The project focuses on clean design, user-friendly navigation, and responsivenes
    
  - High-quality flower images
 ---
-#Getting Started
+# Getting Started
 Prerequisites
 
 - To run this project locally, you only need:
